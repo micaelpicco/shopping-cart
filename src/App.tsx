@@ -1,8 +1,20 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import { Routes, Route } from "react-router-dom";
+import { Container } from "react-bootstrap";
+import { Store } from "./pages/Store";
+import { Navbar } from "./components/NavBar";
+import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 function App() {
-  return <h1>Hii</h1>;
+  return (
+    <ShoppingCartProvider>
+      <Container className="mb-4">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Store />} />
+        </Routes>
+      </Container>
+    </ShoppingCartProvider>
+  );
 }
 
 export default App;
