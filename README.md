@@ -9,7 +9,7 @@ The application offers the possibility of simulating a shopping cart, adding one
 
 # Stack of Technologies
 
-React - Redux - Bootstrap
+React - React Context - LocalStorage - Bootstrap
 
 # Project Deploy
 
