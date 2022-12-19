@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "name": "Bookk",
-    "price": 10.99,
+    "name": "Guitar",
+    "price": 420,
     "imgUrl": "/imgs/guitarra.jpeg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
+    "name": "Motorcycle",
+    "price": 5100,
     "imgUrl": "/imgs/moto.jpeg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
+    "name": "Car",
+    "price": 113700,
     "imgUrl": "/imgs/auto.jpeg"
   },
   {
     "id": 4,
-    "name": "Car",
+    "name": "Computer",
     "price": 14000,
     "imgUrl": "/imgs/pc.jpeg"
   },
   {
     "id": 5,
-    "name": "Car",
-    "price": 14000,
+    "name": "Bicycle",
+    "price": 3250,
     "imgUrl": "/imgs/bicicleta.jpeg"
   },
   {
     "id": 6,
-    "name": "Car",
-    "price": 14000,
+    "name": "Headphones",
+    "price": 310,
     "imgUrl": "/imgs/auri.jpeg"
   }
 ]
