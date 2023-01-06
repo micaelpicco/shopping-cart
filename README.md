@@ -11,6 +11,10 @@ The application offers the possibility of simulating a shopping cart, adding one
 
 React - React Context - LocalStorage - Bootstrap
 
+# Project Deploy
+
+Link: https://shopping-cart-sage-five.vercel.app/
+
 # Project images
 
  <kbd>
@@ -24,6 +28,4 @@ React - React Context - LocalStorage - Bootstrap
  />
 </kbd>
 
-# Project Deploy
 
-Link: https://shopping-cart-sage-five.vercel.app/
